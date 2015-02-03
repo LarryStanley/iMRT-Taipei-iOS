@@ -1,0 +1,331 @@
+/* 
+  Localizable.strings
+  iMRT Taipei
+
+  Created by LarryStanley on 13/7/17.
+
+*/
+
+"Version" = "Version %@";
+
+"SearchPlace" = "Search Place";
+
+"JoinFanPageTitle" = "Do you like iMRT Taipei?\n Join Our Fan Page on Facebook!";
+
+"RateAlertViewTitle" = "Thank you for using iMRT Taipei, whould you mind taking a moment to rate it?";
+
+"NoThanks" = "No Thanks";
+
+"RateMessage" = "Rate iMRT Taipei";
+
+"TapGetInfos" = "Tap station to get the details.";
+
+"PinchZoomIn" = "Pinch zoom map.";
+
+"TryAgainLater" = "Please try again later.";
+
+"JoinMessage" = "Join";
+
+"Search station" = "Search station or place";
+
+"Select Ticket Type" = "Please select your ticket type.\n (You can change setting  in about us.)";
+
+"Single Journal" = "Single-Journey Ticket";
+
+"EasyCard" = "EasyCard";
+
+"Elder" = "Concessionaire";
+
+"ExitInfos" = "Exit Info";
+
+"TransitInfos" = "Transit Information";
+
+"NoStationHere" = "There are no MRT stations found in this area.";
+
+"LocatedFail" = "Faild to find your location.";
+
+"DetailedInfos" = "More Info";
+
+"Loading" = "Loading Data";
+
+"CheckInternet" = "Please check your internet connection.";
+
+"FailToConnect" = "Internet Connection Failed";
+
+"Google" = "Google";
+
+"Route" = "Route";
+
+"Call" = "Call";
+
+"Website" = "Website";
+
+"TodayOpenHour" = "  Today's Opening Hours:%@ ~ %@";
+
+"Open" = "Open";
+
+"Close" = "Day off";
+
+"ShowRouteInfos" = "Do you want to show route between current location and %@ ?";
+
+"Cancel" = "Cancel";
+
+"GoogleMap" = "Google Map";
+
+"iOSMap" = "iOS Map";
+
+"ToMap" = "Go to map";
+
+"CallInfos" = "Do you want to call %@ ?";
+
+"MakePhoneCall" = "Make Phone Call";
+
+"ShowInMap" = "Show On Map";
+
+"Bus" = "Bus";
+
+"BusTo" = "%@ To %@";
+
+"BusStopName" = "Bus Stop:%@";
+
+"BusShowOnMapInfos" = "Do you want to show %@ on map ?";
+
+"BusShowOnMapInfos" = "Do you want to show %@ on map ?";
+
+"BusShowRouteInfos" = "Do you want to show route between current location and %@ ?";
+
+"NTD" = "NTD";
+
+"TravelTime" = "Travel Time";
+
+"Minute" = "Minute(s)";
+
+"PathFinding" = "Path Finding";
+
+"DownSwipeToMap" = "Swipe down into map.";
+
+"UpSwipeToRoute" = "Swipe up into route.";
+
+"TapToBackFunction" = "Tap station name to menu";
+
+"SingleExit" = "Single Exit";
+
+"ExitIndex" = "Exit %i";
+
+"Exit" = "Exit ";
+
+"ShowStationOnMapInfos" = "Do you want to show %@ on map ?";
+
+"SearchPlaceNearStationWithExample" = "Search places near station";
+
+"SearchPlaceNearStation" = "Search places near station";
+
+"Restaurant" = "Restaurant";
+
+"Cafe" = "Cafe";
+
+"Bakery" = "Bakery";
+
+"MovieTheater" = "Movie Theater";
+
+"DepartmentStore" = "Department Store";
+
+"BookStore" = "Book Store";
+
+"ConvenienceStore" = "Convenience Store";
+
+"Park" = "Park";
+
+"ATM" = "ATM";
+
+"NoData" = "No data avalible";
+
+"SingleExitWithMeter" = "Single Exit   %.0f Meter";
+
+"ExitWithMeter" = "%@   %.0f Meter";
+
+"SearchBusName" = "Search bus name";
+
+"Destination" = "Destination";
+
+"MRTToward" = "Towards %@";
+
+"MRTTransfer" = "Transfer to %@";
+
+"MRTTimeTo" = "To %@";
+
+"FirstTrains" = "First Trains";
+
+"After11PM" = "Departures Time After 11pm";
+
+"TimeTableNote" = "Actual arrival time may vary slightly due to operational conditions.";
+
+"LetterTitle" = "iMRT Taipei Advice";
+
+"TypeOfTicket" = "Types of tickets:";
+
+"SelctTicketTypeShort" = "Please select your ticket type.";
+
+//Station Name
+
+"0" = "Taipei Main Station";
+"1" = "Minquan W. Rd.";
+"2" = "Zhongxiao Xinsheng";
+"3" = "Zhongxiao Fuxing";
+"4" = "Taipei Nangang Exhibition Center";
+"5" = "Nangang Software Park";
+"6" = "Donghu";
+"7" = "Huzhou";
+"8" = "Dahu Park";
+"9" = "Neihu";
+"10" = "Wende";
+"11" = "Gangqian";
+"12" = "Xihu";
+"13" = "Jiannan Rd.";
+"14" = "Dazhi";
+"15" = "SongShan Airport";
+"16" = "Zhongshan Junior High School";
+"17" = "Nanjing E. Rd.";
+"18" = "Daan";
+"19" = "Technology Building";
+"20" = "Liuzhangli";
+"21" = "Linguang";
+"22" = "Xinhai";
+"23" = "Wanfang Hospital";
+"24" = "Wanfang Community";
+"25" = "Muzha";
+"26" = "Taipei Zoo";
+"27" = "Xinbeitou";
+"28" = "Tamsui";
+"29" = "Hongshulin";
+"30" = "Zhuwei";
+"31" = "Guandu";
+"32" = "Zhongyi";
+"33" = "Fuxinggang";
+"34" = "Beitou";
+"35" = "Qiyan";
+"36" = "Qilian";
+"37" = "Shipai";
+"38" = "Mingde";
+"39" = "Zhishan";
+"40" = "Shilin";
+"41" = "Jiantan";
+"42" = "Yuanshan";
+"43" = "Shuanglian";
+"44" = "Zhongshan";
+"45" = "NTU Hospital";
+"46" = "Chiang Kai-Shek Memorial Hall";
+"47" = "Xiaonanmen";
+"48" = "Guting";
+"49" = "Taipower Building";
+"50" = "Gongguan";
+"51" = "Wanlong";
+"52" = "Jingmei";
+"53" = "Dapinglin";
+"54" = "Qizhang";
+"55" = "Xindian District Office";
+"56" = "Xindian";
+"57" = "Xiaobitan";
+"58" = "Luzhou";
+"59" = "Sanmin Senior High School";
+"60" = "St. Ignatius High School";
+"61" = "Sanhe Junior High School";
+"62" = "Sanchong Elementary School";
+"63" = "Fu Jen University";
+"64" = "Xinzhuang";
+"65" = "Touqianzhuang";
+"66" = "Xianse";
+"67" = "Sanchong";
+"68" = "Cailiao";
+"69" = "Taipei Bridge";
+"70" = "Daqiaotou";
+"71" = "Zhongshan Elementary School";
+"72" = "Xingtian Temple";
+"73" = "Songjiang Nanjing";
+"74" = "Dingxi";
+"75" = "Yongan Market";
+"76" = "Jingan";
+"77" = "Nanshijiao";
+"78" = "Nangang";
+"79" = "Kunyang";
+"80" = "Houshanpi";
+"81" = "Yongchun";
+"82" = "Taipei City Hall";
+"83" = "Sun Yat-Sen Memorial Hall";
+"84" = "Zhongxiao Dunhua";
+"85" = "Shandao Temple";
+"86" = "Ximen";
+"87" = "Longshan Temple";
+"88" = "Jiangzicui";
+"89" = "Xinpu";
+"90" = "Banqiao";
+"91" = "Fuzhong";
+"92" = "Far Eastern Hospital";
+"93" = "Haishan";
+"94" = "Tucheng";
+"95" = "Yongning";
+"96" = "Dongmen";
+"97" = "Danfeng";
+"98" = "Huilong";
+
+//Direction Name
+
+"淡水" = "Tamsui";
+
+"北投" = "Beitou";
+
+"新店" = "Xindian";
+
+"台電大樓" = "Taipower Building";
+
+"南港展覽館" = "Taipei Nangang Exhibition Center";
+
+"永寧" = "Yongning";
+
+"亞東醫院" = "Far Eastern Hospital";
+
+"迴龍" = "Huilong";
+
+"蘆洲" = "Luzhou";
+
+"南勢角" = "Nanshijiao";
+
+"動物園" = "Taipei Zoo";
+
+"新北投" = "Xinbeitou";
+
+"台北車站" = "Taipei Main Station";
+
+"中正紀念堂" = "Chiang Kai-Shek Memorial Hall";
+
+"西門" = "Ximen";
+
+"小碧潭" = "Xiaobitan";
+
+"七張" = "Qizhang";
+
+"南港展覽館（板南線）" = "Taipei Nangang Exhibition Center(Bannan Line)";
+
+"南港展覽館（文湖線）" = "Taipei Nangang Exhibition Center(Wenhu Line)";
+
+"北投‧淡水" = "Beitou, Tamsui";
+
+"台電大樓‧新店" = "Taipower Building, Xindian";
+
+"亞東醫院‧永寧" = "Far Eastern Hospital, Yongning";
+
+"迴龍‧蘆洲" = "Huilong, Luzhou";
+
+"SwipeRightIllustrator" = "Swipe right to change category.";
+
+"SwipeRightToTransfer" = "Swipe right to change transit category.";
+
+"OK" = "OK";
+
+"Address" = "Address:%@";
+
+"CountOfPark" = "Parking:%@/Vehicles";
+
+"CountOfParkWithStopName" = "%@ %@/Vehicles";
+
+"VersionIllustration" = "If you like this version, whould you mind taking a moment to rate it?";
